@@ -1,0 +1,11 @@
+Wide Data vs Big Data
+
+High-throughput biological data are often characterised by a large number of dependent variables (features). For example, HuEx array has ... millions of probes, etc.
+
+This abundance of features often cannot be matched by an abundance of samples: obtaining high-throughput data is a costly process involving highly specialised labour and equipment, as a result, a statistician or data analyst working with high-throughput data often has to make-do with only a handful of samples. An experiment presented in chapter X was conducted using only Y samples, experiment in chapter Z was conducted using only A samples, etc. Although large experiments are not unheard of, e.g. GWAS studies and the BioBank cohort.
+
+This feature/sample imbalance is quite different from a situation present in other fields, e.g. image processing. An average size of an image in Image Net (a large open collection of images regarded as a standard benchmark in the image processing community) is x pixels by x pixels. Assuming an average information density of a single pixel to be comparable to a single probe, we get the ratio Z, which shows that probe data is very feature-rich. A paragraph about how the sample difference is also very big.
+
+
+
+
